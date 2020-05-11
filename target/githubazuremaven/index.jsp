@@ -5,7 +5,7 @@
 <html lang="es">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Curso GITHUB - Azure Deploy v2</title>
+  <title>Curso GITHUB - Azure Deploy v3</title>
 </head>
 <body>
 <%
